@@ -21,3 +21,5 @@ This assignment focuses on exploring a dataset, performing feature engineering, 
 
 1. Clone this repository or download the notebook  
 2. Install required packages:
+3. Open the notebook in Jupyter Notebook or JupyterLab
+4. Run cells from top to bottom
