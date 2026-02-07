@@ -1,10 +1,23 @@
-Week 4 Assignment Data Exploration and Feature Engineering
+# Week 4 Hands-On Assignment: Data Exploration, Feature Engineering, and Modeling
 
-Apply the concepts of data exploration, feature engineering, and basic modeling using Python and scikit-learn. Practice using GitHub to document and share your workflow.
+**Course:** Introduction to Machine Learning  
+**Student:** Drew Menning  
+**Week:** 4  
 
-Requirements
-Python 3
-Jupyter Notebook
+## Assignment Overview
 
-How to Run
-Open repository https://github.com/drewmenning/week4-data-exploration-ml
+This assignment focuses on exploring a dataset, performing feature engineering, and training a basic machine learning model using Python and scikit-learn. GitHub is used to document and share the workflow.
+
+## Tasks Completed
+
+- Explored and summarized a real-world dataset
+- Identified numerical and categorical features
+- Visualized key features
+- Applied feature engineering techniques
+- Trained and evaluated a basic machine learning model
+- Reflected on challenges and results
+
+## How to Run
+
+1. Clone this repository or download the notebook  
+2. Install required packages:
